@@ -1,0 +1,25 @@
+### Create a digital portfolio
+
+     
+personal webpage hosted on github. make it yours. for example...     
+  
+  - link to your twitter account   
+  - different layout   
+  - engage with subject area that inspires you (on twitter and with data)   
+
+create an interesting and tidy data set  
+  
+  - combine data sources  
+  - and/or zoom a data source    
+  - ideally it would update over time  
+
+create a dashboard (shiny app ok)     
+
+with your group, create something that is yours   
+
+  - how/where do you want to grow?    
+  - "never let schooling interfere with your education." -Mark Twain   
+  - make something unique, special, beautiful.   
+  - think small, modular, quick, convenient, dynamic, updating,   
+  - or "larger"... a "data-product", a business, built on something which you are already knowledgeable.   
+

@@ -1,0 +1,12 @@
+---
+title: "Data Science Themes"
+author: "Karl Rohe"
+output: html_document
+---
+
+
+1) [Five Stances of Data Science](stances.html)   
+3) [Data Science (DS) is a performance of these stances](performance.html)    
+2) "Five stances" and "DS is a performance" could have been said about "applied statistics" 100 years ago.  Is "DS" just marketing?  No.  The "rebranding" has aligned (in time) with a massive change in the way that we perform applied statistics.  To me, Data Science is *data analysis in the age of the internet*.  Due to the internet, we can now rapidly share both data and software.  This enables a rich web of dependencies in both, from which data science is [emergent](https://en.wikipedia.org/wiki/Emergence).   The [broad contours of data science](firstLecture.html) can be understood through these dependencies.    
+4) [Outcome envisioning](digitalPortfolio.html).  You should think of a course in data science as a resource that, if used effectively, will help you create your own digital portfolio. 
+5) Yeah, I made a [diagram of the performance](DataScience.pdf).
